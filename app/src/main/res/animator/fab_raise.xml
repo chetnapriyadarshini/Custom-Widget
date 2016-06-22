@@ -5,10 +5,11 @@
         android:duration="@android:integer/config_shortAnimTime"
         android:propertyName="translationZ"
         android:valueTo="8dp"
-        android:valueType="floatType"></objectAnimator>
+        android:valueType="floatType"/>
 </item>
     <item>
-        <objectAnimator android:duration="@android:integer/config_shortAnimTime"
+        <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
             android:propertyName="translationZ"
             android:valueTo="0dp"
             android:valueType="floatType"/>

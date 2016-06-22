@@ -16,5 +16,5 @@
         android:elevation="4dp"
         android:layout_centerInParent="true"
         android:src="@drawable/ic_add_circle_black_24dp"
-        android:stateListAnimator="@drawable/fab_raise"/>
+        android:stateListAnimator="@animator/fab_raise"/>
 </RelativeLayout>
